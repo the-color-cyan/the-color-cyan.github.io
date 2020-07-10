@@ -1,0 +1,81 @@
+.edit .controller.ds4 {
+    background: url(https://i.imgur.com/j0ltngD.png);
+}
+
+.controller.edit {
+    background: url(https://i.imgur.com/j0ltngD.png);
+}
+
+
+.edit .face .ds4 {
+    background: url(https://i.imgur.com/NnELLWB.png);
+}
+
+.edit .face {
+    position: absolute;
+    background: url(https://i.imgur.com/NnELLWB.png);
+}
+
+
+.edit .stick .ds4 {
+    background: url(https://i.imgur.com/f7r3Tc4.png);
+}
+
+.edit .stick {
+    position: absolute;
+    background: url(https://i.imgur.com/f7r3Tc4.png);
+}
+
+
+.edit .button .ds4 {
+    background: url(https://i.imgur.com/tDOCK9c.png);
+}
+
+.edit .button {
+    position: absolute;
+    background: url(https://i.imgur.com/tDOCK9c.png);
+}
+
+
+.edit .bumper .ds4 {
+    background: url(https://i.imgur.com/VB3G8WK.png);
+}
+
+.edit .bumper {
+    background: url(https://i.imgur.com/VB3G8WK.png);
+}
+
+
+.edit .disconnected .ds4 {
+    background: url(https://i.imgur.com/Bq3X0w4.png);
+}
+
+.edit .disconnected {
+    background: url(https://i.imgur.com/Bq3X0w4.png);
+}
+
+
+.edit .back .ds4, .start .ds4 {
+    background: url(https://i.imgur.com/AdLl7Vi.png);
+}
+
+.edit .back, .start {
+    background: url(https://i.imgur.com/AdLl7Vi.png);
+}
+
+
+.edit .trigger .ds4 {
+    background: url(https://i.imgur.com/z33dl0d.png);
+}
+
+.edit .trigger {
+    background: url(https://i.imgur.com/z33dl0d.png);
+}
+
+.edit .touchpad.pressed .ds4 {
+    background: url(https://i.imgur.com/OOfoP0u.png);
+}
+
+.edit .touchpad.pressed {
+    background: url(https://i.imgur.com/OOfoP0u.png);
+}
